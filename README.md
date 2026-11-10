@@ -7,7 +7,7 @@ Laravel 12 · React 19 + TypeScript · MySQL · Docker · CI with 649 automated 
 > Built during a six-month internship at OpenWay Cons, an agency in Kairouan, Tunisia that helps students enrol in Italian universities and obtain their study visa.
 > The source code is private (client data, agency business). This page describes the system; a walkthrough is available on request.
 
-**Author:** Achref Bouden, full-stack developer · [LinkedIn](https://www.linkedin.com/in/achref-bouden-321842159) · [Email](mailto:ashrefbouden@gmail.com)
+**Author:** Achref Bouden, full-stack developer · [LinkedIn](https://www.linkedin.com/in/achref-bouden) · [Email](mailto:ashrefbouden@gmail.com)
 
 ---
 
