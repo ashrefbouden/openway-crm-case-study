@@ -3,7 +3,7 @@
 **A production CRM for a study-abroad agency, built solo from first commit to production.**
 Laravel 12 · React 19 + TypeScript · MySQL · Docker · CI with 649 automated tests
 
-> Final-year engineering project (PFE, ESPRIT), defended November 2026 with the distinction *Très bien*.
+> Final-year engineering project (PFE, ESPRIT), defended November 2026 with high honors (mention *Très bien*).
 > Built during a six-month internship at OpenWay Cons, an agency in Kairouan, Tunisia that helps students enrol in Italian universities and obtain their study visa.
 > The source code is private (client data, agency business). This page describes the system; a walkthrough is available on request.
 
